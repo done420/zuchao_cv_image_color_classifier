@@ -1,0 +1,2153 @@
+{
+    "BrownSeries": {
+        "collocation": "BrownSeries",
+        "name": "棕色系",
+        "color_names": [
+            "冰咖啡色",
+            "古巴砂色",
+            "太妃糖色",
+            "安道尔棕",
+            "小麦色",
+            "巧克力棕",
+            "曙光银",
+            "月光色",
+            "杏仁色",
+            "栗色",
+            "沙色",
+            "淡金色",
+            "深灰褐色",
+            "灰泥色",
+            "灰褐色",
+            "烤杏仁色",
+            "玳瑁色",
+            "画眉鸟棕",
+            "百灵鸟色",
+            "米褐色",
+            "苦巧克力色",
+            "貂皮色",
+            "金峰石色",
+            "金棕色",
+            "香薰色",
+            "驼色",
+            "鹧鸪色",
+            "黏土色"
+        ],
+        "color_data": [
+            {
+                "name_cn": "冰咖啡色",
+                "raw_code": "BN 3-04",
+                "rbg_hex": "#b18f6a",
+                "rgb_value": [
+                    177,
+                    143,
+                    106
+                ]
+            },
+            {
+                "name_cn": "古巴砂色",
+                "raw_code": "BN 3-03",
+                "rbg_hex": "#c4a98e",
+                "rgb_value": [
+                    196,
+                    169,
+                    142
+                ]
+            },
+            {
+                "name_cn": "太妃糖色",
+                "raw_code": "BN 2-06",
+                "rbg_hex": "#c69b64",
+                "rgb_value": [
+                    198,
+                    155,
+                    100
+                ]
+            },
+            {
+                "name_cn": "安道尔棕",
+                "raw_code": "BN 6-02",
+                "rbg_hex": "#62393d",
+                "rgb_value": [
+                    98,
+                    57,
+                    61
+                ]
+            },
+            {
+                "name_cn": "小麦色",
+                "raw_code": "BN 4-01",
+                "rbg_hex": "#e4c7a7",
+                "rgb_value": [
+                    228,
+                    199,
+                    167
+                ]
+            },
+            {
+                "name_cn": "巧克力棕",
+                "raw_code": "BN 4-09",
+                "rbg_hex": "#443731",
+                "rgb_value": [
+                    68,
+                    55,
+                    49
+                ]
+            },
+            {
+                "name_cn": "曙光银",
+                "raw_code": "BN 2-04",
+                "rbg_hex": "#c0baae",
+                "rgb_value": [
+                    192,
+                    186,
+                    174
+                ]
+            },
+            {
+                "name_cn": "月光色",
+                "raw_code": "BN 4-05",
+                "rbg_hex": "#c1ae9d",
+                "rgb_value": [
+                    193,
+                    174,
+                    157
+                ]
+            },
+            {
+                "name_cn": "杏仁色",
+                "raw_code": "BN 3-05",
+                "rbg_hex": "#ac794e",
+                "rgb_value": [
+                    172,
+                    121,
+                    78
+                ]
+            },
+            {
+                "name_cn": "栗色",
+                "raw_code": "BN 5-05",
+                "rbg_hex": "#56433d",
+                "rgb_value": [
+                    86,
+                    67,
+                    61
+                ]
+            },
+            {
+                "name_cn": "沙色",
+                "raw_code": "BN 2-03",
+                "rbg_hex": "#dbd0be",
+                "rgb_value": [
+                    219,
+                    208,
+                    190
+                ]
+            },
+            {
+                "name_cn": "淡金色",
+                "raw_code": "BN 2-05",
+                "rbg_hex": "#bd9967",
+                "rgb_value": [
+                    189,
+                    153,
+                    103
+                ]
+            },
+            {
+                "name_cn": "深灰褐色",
+                "raw_code": "BN 5-04",
+                "rbg_hex": "#715c57",
+                "rgb_value": [
+                    113,
+                    92,
+                    87
+                ]
+            },
+            {
+                "name_cn": "灰泥色",
+                "raw_code": "BN 5-03",
+                "rbg_hex": "#a48c7f",
+                "rgb_value": [
+                    164,
+                    140,
+                    127
+                ]
+            },
+            {
+                "name_cn": "灰褐色",
+                "raw_code": "BN 2-07",
+                "rbg_hex": "#aca092",
+                "rgb_value": [
+                    172,
+                    160,
+                    146
+                ]
+            },
+            {
+                "name_cn": "烤杏仁色",
+                "raw_code": "BN 4-04",
+                "rbg_hex": "#d2b29b",
+                "rgb_value": [
+                    210,
+                    178,
+                    155
+                ]
+            },
+            {
+                "name_cn": "玳瑁色",
+                "raw_code": "BN 5-02",
+                "rbg_hex": "#764b3a",
+                "rgb_value": [
+                    118,
+                    75,
+                    58
+                ]
+            },
+            {
+                "name_cn": "画眉鸟棕",
+                "raw_code": "BN 4-03",
+                "rbg_hex": "#916b54",
+                "rgb_value": [
+                    145,
+                    107,
+                    84
+                ]
+            },
+            {
+                "name_cn": "百灵鸟色",
+                "raw_code": "BN 2-01",
+                "rbg_hex": "#b59a6d",
+                "rgb_value": [
+                    181,
+                    154,
+                    109
+                ]
+            },
+            {
+                "name_cn": "米褐色",
+                "raw_code": "BN 3-01",
+                "rbg_hex": "#d4b795",
+                "rgb_value": [
+                    212,
+                    183,
+                    149
+                ]
+            },
+            {
+                "name_cn": "苦巧克力色",
+                "raw_code": "BN 6-03",
+                "rbg_hex": "#503637",
+                "rgb_value": [
+                    80,
+                    54,
+                    55
+                ]
+            },
+            {
+                "name_cn": "貂皮色",
+                "raw_code": "BN 6-01",
+                "rbg_hex": "#714441",
+                "rgb_value": [
+                    113,
+                    68,
+                    65
+                ]
+            },
+            {
+                "name_cn": "金峰石色",
+                "raw_code": "BN 3-06",
+                "rbg_hex": "#684831",
+                "rgb_value": [
+                    104,
+                    72,
+                    49
+                ]
+            },
+            {
+                "name_cn": "金棕色",
+                "raw_code": "BN 2-08",
+                "rbg_hex": "#91672b",
+                "rgb_value": [
+                    145,
+                    103,
+                    43
+                ]
+            },
+            {
+                "name_cn": "香薰色",
+                "raw_code": "BN 2-02",
+                "rbg_hex": "#ab9677",
+                "rgb_value": [
+                    171,
+                    150,
+                    119
+                ]
+            },
+            {
+                "name_cn": "驼色",
+                "raw_code": "BN 4-02",
+                "rbg_hex": "#ad8166",
+                "rgb_value": [
+                    173,
+                    129,
+                    102
+                ]
+            },
+            {
+                "name_cn": "鹧鸪色",
+                "raw_code": "BN 4-08",
+                "rbg_hex": "#6f5242",
+                "rgb_value": [
+                    111,
+                    82,
+                    66
+                ]
+            },
+            {
+                "name_cn": "黏土色",
+                "raw_code": "BN 3-02",
+                "rbg_hex": "#d5a372",
+                "rgb_value": [
+                    213,
+                    163,
+                    114
+                ]
+            }
+        ]
+    },
+    "OrangeSeries": {
+        "collocation": "OrangeSeries",
+        "name": "橙色系",
+        "color_names": [
+            "南瓜色",
+            "奶油糖果色",
+            "探戈橘色",
+            "橙赭色",
+            "活力橙",
+            "深干酪色",
+            "火焰红",
+            "爱马仕橙",
+            "珊瑚金色",
+            "镉橘黄"
+        ],
+        "color_data": [
+            {
+                "name_cn": "南瓜色",
+                "raw_code": "OG 3-03",
+                "rbg_hex": "#d16537",
+                "rgb_value": [
+                    209,
+                    101,
+                    55
+                ]
+            },
+            {
+                "name_cn": "奶油糖果色",
+                "raw_code": "OG 1-03",
+                "rbg_hex": "#e19742",
+                "rgb_value": [
+                    225,
+                    151,
+                    66
+                ]
+            },
+            {
+                "name_cn": "探戈橘色",
+                "raw_code": "OG 3-05",
+                "rbg_hex": "#e3492f",
+                "rgb_value": [
+                    227,
+                    73,
+                    47
+                ]
+            },
+            {
+                "name_cn": "橙赭色",
+                "raw_code": "OG 2-02",
+                "rbg_hex": "#dd7a39",
+                "rgb_value": [
+                    221,
+                    122,
+                    57
+                ]
+            },
+            {
+                "name_cn": "活力橙",
+                "raw_code": "OG 3-01",
+                "rbg_hex": "#fe6d2c",
+                "rgb_value": [
+                    254,
+                    109,
+                    44
+                ]
+            },
+            {
+                "name_cn": "深干酪色",
+                "raw_code": "OG 1-04",
+                "rbg_hex": "#e68415",
+                "rgb_value": [
+                    230,
+                    132,
+                    21
+                ]
+            },
+            {
+                "name_cn": "火焰红",
+                "raw_code": "OG 3-04",
+                "rbg_hex": "#f5512c",
+                "rgb_value": [
+                    245,
+                    81,
+                    44
+                ]
+            },
+            {
+                "name_cn": "爱马仕橙",
+                "raw_code": "OG 2-01",
+                "rbg_hex": "#ff770d",
+                "rgb_value": [
+                    255,
+                    119,
+                    13
+                ]
+            },
+            {
+                "name_cn": "珊瑚金色",
+                "raw_code": "OG 2-04",
+                "rbg_hex": "#d78357",
+                "rgb_value": [
+                    215,
+                    131,
+                    87
+                ]
+            },
+            {
+                "name_cn": "镉橘黄",
+                "raw_code": "OG 3-02",
+                "rbg_hex": "#f5926b",
+                "rgb_value": [
+                    245,
+                    146,
+                    107
+                ]
+            }
+        ]
+    },
+    "GraySeries": {
+        "collocation": "GraySeries",
+        "name": "灰色系",
+        "color_names": [
+            "丁香灰",
+            "云灰色",
+            "亮白色",
+            "冰川灰",
+            "大象灰",
+            "天空灰",
+            "岩石灰",
+            "暴风雨灰",
+            "棉花糖色",
+            "沙漠鼠尾草灰",
+            "烟灰色",
+            "白鲸灰",
+            "百合白",
+            "素灰色",
+            "纯黑色",
+            "蒸汽灰",
+            "钢灰色",
+            "银桦色",
+            "银白色",
+            "银色",
+            "雨灰色",
+            "雾色",
+            "霜灰色",
+            "青铜色",
+            "魅影黑",
+            "鲨鱼灰"
+        ],
+        "color_data": [
+            {
+                "name_cn": "丁香灰",
+                "raw_code": "GY 3-03",
+                "rbg_hex": "#9896a4",
+                "rgb_value": [
+                    152,
+                    150,
+                    164
+                ]
+            },
+            {
+                "name_cn": "云灰色",
+                "raw_code": "GY 3-02",
+                "rbg_hex": "#b8a9ae",
+                "rgb_value": [
+                    184,
+                    169,
+                    174
+                ]
+            },
+            {
+                "name_cn": "亮白色",
+                "raw_code": "GY 1-01",
+                "rbg_hex": "#f2f2f2",
+                "rgb_value": [
+                    242,
+                    242,
+                    242
+                ]
+            },
+            {
+                "name_cn": "冰川灰",
+                "raw_code": "GY 4-01",
+                "rbg_hex": "#c6cccc",
+                "rgb_value": [
+                    198,
+                    204,
+                    204
+                ]
+            },
+            {
+                "name_cn": "大象灰",
+                "raw_code": "GY 2-03",
+                "rbg_hex": "#8e8983",
+                "rgb_value": [
+                    142,
+                    137,
+                    131
+                ]
+            },
+            {
+                "name_cn": "天空灰",
+                "raw_code": "GY 4-03",
+                "rbg_hex": "#bbc9c9",
+                "rgb_value": [
+                    187,
+                    201,
+                    201
+                ]
+            },
+            {
+                "name_cn": "岩石灰",
+                "raw_code": "GY 2-05",
+                "rbg_hex": "#8b8273",
+                "rgb_value": [
+                    139,
+                    130,
+                    115
+                ]
+            },
+            {
+                "name_cn": "暴风雨灰",
+                "raw_code": "GY 3-06",
+                "rbg_hex": "#57646d",
+                "rgb_value": [
+                    87,
+                    100,
+                    109
+                ]
+            },
+            {
+                "name_cn": "棉花糖色",
+                "raw_code": "GY 2-01",
+                "rbg_hex": "#efede1",
+                "rgb_value": [
+                    239,
+                    237,
+                    225
+                ]
+            },
+            {
+                "name_cn": "沙漠鼠尾草灰",
+                "raw_code": "GY 5-02",
+                "rbg_hex": "#a3ac99",
+                "rgb_value": [
+                    163,
+                    172,
+                    153
+                ]
+            },
+            {
+                "name_cn": "烟灰色",
+                "raw_code": "GY 3-01",
+                "rbg_hex": "#a29e9d",
+                "rgb_value": [
+                    162,
+                    158,
+                    157
+                ]
+            },
+            {
+                "name_cn": "白鲸灰",
+                "raw_code": "GY 1-07",
+                "rbg_hex": "#42413d",
+                "rgb_value": [
+                    66,
+                    65,
+                    61
+                ]
+            },
+            {
+                "name_cn": "百合白",
+                "raw_code": "GY 5-04",
+                "rbg_hex": "#e6e7e2",
+                "rgb_value": [
+                    230,
+                    231,
+                    226
+                ]
+            },
+            {
+                "name_cn": "素灰色",
+                "raw_code": "GY 1-04",
+                "rbg_hex": "#8f918e",
+                "rgb_value": [
+                    143,
+                    145,
+                    142
+                ]
+            },
+            {
+                "name_cn": "纯黑色",
+                "raw_code": "GY 1-08",
+                "rbg_hex": "#151a1e",
+                "rgb_value": [
+                    21,
+                    26,
+                    30
+                ]
+            },
+            {
+                "name_cn": "蒸汽灰",
+                "raw_code": "GY 5-03",
+                "rbg_hex": "#e4e5df",
+                "rgb_value": [
+                    228,
+                    229,
+                    223
+                ]
+            },
+            {
+                "name_cn": "钢灰色",
+                "raw_code": "GY 1-05",
+                "rbg_hex": "#6b6c70",
+                "rgb_value": [
+                    107,
+                    108,
+                    112
+                ]
+            },
+            {
+                "name_cn": "银桦色",
+                "raw_code": "GY 5-05",
+                "rbg_hex": "#cecec2",
+                "rgb_value": [
+                    206,
+                    206,
+                    194
+                ]
+            },
+            {
+                "name_cn": "银白色",
+                "raw_code": "GY 2-02",
+                "rbg_hex": "#c2bfb6",
+                "rgb_value": [
+                    194,
+                    191,
+                    182
+                ]
+            },
+            {
+                "name_cn": "银色",
+                "raw_code": "GY 1-03",
+                "rbg_hex": "#999b9a",
+                "rgb_value": [
+                    153,
+                    155,
+                    154
+                ]
+            },
+            {
+                "name_cn": "雨灰色",
+                "raw_code": "GY 5-01",
+                "rbg_hex": "#b1bab5",
+                "rgb_value": [
+                    177,
+                    186,
+                    181
+                ]
+            },
+            {
+                "name_cn": "雾色",
+                "raw_code": "GY 1-02",
+                "rbg_hex": "#d1d6d2",
+                "rgb_value": [
+                    209,
+                    214,
+                    210
+                ]
+            },
+            {
+                "name_cn": "霜灰色",
+                "raw_code": "GY 3-04",
+                "rbg_hex": "#848388",
+                "rgb_value": [
+                    132,
+                    131,
+                    136
+                ]
+            },
+            {
+                "name_cn": "青铜色",
+                "raw_code": "GY 1-06",
+                "rbg_hex": "#5b5b5b",
+                "rgb_value": [
+                    91,
+                    91,
+                    91
+                ]
+            },
+            {
+                "name_cn": "魅影黑",
+                "raw_code": "GY 3-05",
+                "rbg_hex": "#34373c",
+                "rgb_value": [
+                    52,
+                    55,
+                    60
+                ]
+            },
+            {
+                "name_cn": "鲨鱼灰",
+                "raw_code": "GY 4-02",
+                "rbg_hex": "#838488",
+                "rgb_value": [
+                    131,
+                    132,
+                    136
+                ]
+            }
+        ]
+    },
+    "PinkSeries": {
+        "collocation": "PinkSeries",
+        "name": "粉色系",
+        "color_names": [
+            "奶油粉",
+            "康乃馨粉",
+            "暗粉色",
+            "柔玫瑰色",
+            "水晶玫瑰色",
+            "淡丁香色",
+            "火烈鸟粉",
+            "热粉红色",
+            "珊瑚粉",
+            "甜菜根色",
+            "粉丁香色",
+            "胭脂粉",
+            "草莓冰",
+            "香槟粉"
+        ],
+        "color_data": [
+            {
+                "name_cn": "奶油粉",
+                "raw_code": "PK 4-1",
+                "rbg_hex": "#f3e5dc",
+                "rgb_value": [
+                    243,
+                    229,
+                    220
+                ]
+            },
+            {
+                "name_cn": "康乃馨粉",
+                "raw_code": "PK 2-01",
+                "rbg_hex": "#ee79a5",
+                "rgb_value": [
+                    238,
+                    121,
+                    165
+                ]
+            },
+            {
+                "name_cn": "暗粉色",
+                "raw_code": "PK 4-3",
+                "rbg_hex": "#e1ae9d",
+                "rgb_value": [
+                    225,
+                    174,
+                    157
+                ]
+            },
+            {
+                "name_cn": "柔玫瑰色",
+                "raw_code": "PK 3-02",
+                "rbg_hex": "#cf86a3",
+                "rgb_value": [
+                    207,
+                    134,
+                    163
+                ]
+            },
+            {
+                "name_cn": "水晶玫瑰色",
+                "raw_code": "PK 1-01",
+                "rbg_hex": "#f9c8cb",
+                "rgb_value": [
+                    249,
+                    200,
+                    203
+                ]
+            },
+            {
+                "name_cn": "淡丁香色",
+                "raw_code": "PK 3-03",
+                "rbg_hex": "#e1c9d7",
+                "rgb_value": [
+                    225,
+                    201,
+                    215
+                ]
+            },
+            {
+                "name_cn": "火烈鸟粉",
+                "raw_code": "PK 1-02",
+                "rbg_hex": "#f396a1",
+                "rgb_value": [
+                    243,
+                    150,
+                    161
+                ]
+            },
+            {
+                "name_cn": "热粉红色",
+                "raw_code": "PK 1-05",
+                "rbg_hex": "#e85985",
+                "rgb_value": [
+                    232,
+                    89,
+                    133
+                ]
+            },
+            {
+                "name_cn": "珊瑚粉",
+                "raw_code": "PK 1-03",
+                "rbg_hex": "#e9b7c2",
+                "rgb_value": [
+                    233,
+                    183,
+                    194
+                ]
+            },
+            {
+                "name_cn": "甜菜根色",
+                "raw_code": "PK 2-03",
+                "rbg_hex": "#cb2f70",
+                "rgb_value": [
+                    203,
+                    47,
+                    112
+                ]
+            },
+            {
+                "name_cn": "粉丁香色",
+                "raw_code": "PK 3-01",
+                "rbg_hex": "#ebb0ce",
+                "rgb_value": [
+                    235,
+                    176,
+                    206
+                ]
+            },
+            {
+                "name_cn": "胭脂粉",
+                "raw_code": "PK 2-02",
+                "rbg_hex": "#de5b91",
+                "rgb_value": [
+                    222,
+                    91,
+                    145
+                ]
+            },
+            {
+                "name_cn": "草莓冰",
+                "raw_code": "PK 1-04",
+                "rbg_hex": "#e38690",
+                "rgb_value": [
+                    227,
+                    134,
+                    144
+                ]
+            },
+            {
+                "name_cn": "香槟粉",
+                "raw_code": "PK 4-2",
+                "rbg_hex": "#f0ddcf",
+                "rgb_value": [
+                    240,
+                    221,
+                    207
+                ]
+            }
+        ]
+    },
+    "PurpleSeries": {
+        "collocation": "PurpleSeries",
+        "name": "紫色系",
+        "color_names": [
+            "佩斯利紫",
+            "兰花紫",
+            "帝王紫",
+            "柔薰衣草色",
+            "浅紫色",
+            "浅薰衣草色",
+            "深紫红色",
+            "灰玫瑰色",
+            "紫水晶色",
+            "紫红色",
+            "绛紫色",
+            "罗甘莓色",
+            "葡萄汁色",
+            "葡萄紫色",
+            "蓝紫色",
+            "薰衣草色",
+            "西梅色"
+        ],
+        "color_data": [
+            {
+                "name_cn": "佩斯利紫",
+                "raw_code": "PL 3-03",
+                "rbg_hex": "#8977b3",
+                "rgb_value": [
+                    137,
+                    119,
+                    179
+                ]
+            },
+            {
+                "name_cn": "兰花紫",
+                "raw_code": "PL 1-05",
+                "rbg_hex": "#b263a4",
+                "rgb_value": [
+                    178,
+                    99,
+                    164
+                ]
+            },
+            {
+                "name_cn": "帝王紫",
+                "raw_code": "PL 2-05",
+                "rbg_hex": "#5a3662",
+                "rgb_value": [
+                    90,
+                    54,
+                    98
+                ]
+            },
+            {
+                "name_cn": "柔薰衣草色",
+                "raw_code": "PL 1-04",
+                "rbg_hex": "#b191a9",
+                "rgb_value": [
+                    177,
+                    145,
+                    169
+                ]
+            },
+            {
+                "name_cn": "浅紫色",
+                "raw_code": "PL 3-02",
+                "rbg_hex": "#bcb9d8",
+                "rgb_value": [
+                    188,
+                    185,
+                    216
+                ]
+            },
+            {
+                "name_cn": "浅薰衣草色",
+                "raw_code": "PL 2-01",
+                "rbg_hex": "#d5c9dd",
+                "rgb_value": [
+                    213,
+                    201,
+                    221
+                ]
+            },
+            {
+                "name_cn": "深紫红色",
+                "raw_code": "PL 1-08",
+                "rbg_hex": "#6b3453",
+                "rgb_value": [
+                    107,
+                    52,
+                    83
+                ]
+            },
+            {
+                "name_cn": "灰玫瑰色",
+                "raw_code": "PL 1-01",
+                "rbg_hex": "#b27f7e",
+                "rgb_value": [
+                    178,
+                    127,
+                    126
+                ]
+            },
+            {
+                "name_cn": "紫水晶色",
+                "raw_code": "PL 2-02",
+                "rbg_hex": "#9264ac",
+                "rgb_value": [
+                    146,
+                    100,
+                    172
+                ]
+            },
+            {
+                "name_cn": "紫红色",
+                "raw_code": "PL 1-02",
+                "rbg_hex": "#a33773",
+                "rgb_value": [
+                    163,
+                    55,
+                    115
+                ]
+            },
+            {
+                "name_cn": "绛紫色",
+                "raw_code": "PL 1-09",
+                "rbg_hex": "#5b435b",
+                "rgb_value": [
+                    91,
+                    67,
+                    91
+                ]
+            },
+            {
+                "name_cn": "罗甘莓色",
+                "raw_code": "PL 3-05",
+                "rbg_hex": "#5b4a6c",
+                "rgb_value": [
+                    91,
+                    74,
+                    108
+                ]
+            },
+            {
+                "name_cn": "葡萄汁色",
+                "raw_code": "PL 1-06",
+                "rbg_hex": "#83677e",
+                "rgb_value": [
+                    131,
+                    103,
+                    126
+                ]
+            },
+            {
+                "name_cn": "葡萄紫色",
+                "raw_code": "PL 1-07",
+                "rbg_hex": "#6d3363",
+                "rgb_value": [
+                    109,
+                    51,
+                    99
+                ]
+            },
+            {
+                "name_cn": "蓝紫色",
+                "raw_code": "PL 4-02",
+                "rbg_hex": "#8591b7",
+                "rgb_value": [
+                    133,
+                    145,
+                    183
+                ]
+            },
+            {
+                "name_cn": "薰衣草色",
+                "raw_code": "PL 4-01",
+                "rbg_hex": "#8a9cc4",
+                "rgb_value": [
+                    138,
+                    156,
+                    196
+                ]
+            },
+            {
+                "name_cn": "西梅色",
+                "raw_code": "PL 1-03",
+                "rbg_hex": "#603e4f",
+                "rgb_value": [
+                    96,
+                    62,
+                    79
+                ]
+            }
+        ]
+    },
+    "RedSeries": {
+        "collocation": "RedSeries",
+        "name": "红色系",
+        "color_names": [
+            "中国红",
+            "庞贝红",
+            "极光红",
+            "梅诺尔酒红",
+            "橘红色",
+            "残烬红",
+            "沙漠红",
+            "洛可可红",
+            "火红色",
+            "玫瑰红",
+            "珊瑚红",
+            "珊瑚色",
+            "番茄酱红",
+            "砖红色",
+            "花蕾红",
+            "蜜桃色",
+            "西藏红"
+        ],
+        "color_data": [
+            {
+                "name_cn": "中国红",
+                "raw_code": "RD 3-02",
+                "rbg_hex": "#be2238",
+                "rgb_value": [
+                    190,
+                    34,
+                    56
+                ]
+            },
+            {
+                "name_cn": "庞贝红",
+                "raw_code": "RD 3-04",
+                "rbg_hex": "#a22e37",
+                "rgb_value": [
+                    162,
+                    46,
+                    55
+                ]
+            },
+            {
+                "name_cn": "极光红",
+                "raw_code": "RD 2-04",
+                "rbg_hex": "#b83a3e",
+                "rgb_value": [
+                    184,
+                    58,
+                    62
+                ]
+            },
+            {
+                "name_cn": "梅诺尔酒红",
+                "raw_code": "RD 3-06",
+                "rbg_hex": "#72252b",
+                "rgb_value": [
+                    114,
+                    37,
+                    43
+                ]
+            },
+            {
+                "name_cn": "橘红色",
+                "raw_code": "RD 1-03",
+                "rbg_hex": "#d5392c",
+                "rgb_value": [
+                    213,
+                    57,
+                    44
+                ]
+            },
+            {
+                "name_cn": "残烬红",
+                "raw_code": "RD 1-02",
+                "rbg_hex": "#ea6659",
+                "rgb_value": [
+                    234,
+                    102,
+                    89
+                ]
+            },
+            {
+                "name_cn": "沙漠红",
+                "raw_code": "RD 2-05",
+                "rbg_hex": "#bb7872",
+                "rgb_value": [
+                    187,
+                    120,
+                    114
+                ]
+            },
+            {
+                "name_cn": "洛可可红",
+                "raw_code": "RD 3-03",
+                "rbg_hex": "#bf3849",
+                "rgb_value": [
+                    191,
+                    56,
+                    73
+                ]
+            },
+            {
+                "name_cn": "火红色",
+                "raw_code": "RD 2-02",
+                "rbg_hex": "#d12531",
+                "rgb_value": [
+                    209,
+                    37,
+                    49
+                ]
+            },
+            {
+                "name_cn": "玫瑰红",
+                "raw_code": "RD 4-01",
+                "rbg_hex": "#c21d55",
+                "rgb_value": [
+                    194,
+                    29,
+                    85
+                ]
+            },
+            {
+                "name_cn": "珊瑚红",
+                "raw_code": "RD 2-01",
+                "rbg_hex": "#ee5557",
+                "rgb_value": [
+                    238,
+                    85,
+                    87
+                ]
+            },
+            {
+                "name_cn": "珊瑚色",
+                "raw_code": "RD 1-01",
+                "rbg_hex": "#ec7265",
+                "rgb_value": [
+                    236,
+                    114,
+                    101
+                ]
+            },
+            {
+                "name_cn": "番茄酱红",
+                "raw_code": "RD 2-06",
+                "rbg_hex": "#923d3a",
+                "rgb_value": [
+                    146,
+                    61,
+                    58
+                ]
+            },
+            {
+                "name_cn": "砖红色",
+                "raw_code": "RD 1-04",
+                "rbg_hex": "#a04e42",
+                "rgb_value": [
+                    160,
+                    78,
+                    66
+                ]
+            },
+            {
+                "name_cn": "花蕾红",
+                "raw_code": "RD 4-02",
+                "rbg_hex": "#9a2d4d",
+                "rgb_value": [
+                    154,
+                    45,
+                    77
+                ]
+            },
+            {
+                "name_cn": "蜜桃色",
+                "raw_code": "RD 2-03",
+                "rbg_hex": "#d75b5b",
+                "rgb_value": [
+                    215,
+                    91,
+                    91
+                ]
+            },
+            {
+                "name_cn": "西藏红",
+                "raw_code": "RD 4-03",
+                "rbg_hex": "#7d3543",
+                "rgb_value": [
+                    125,
+                    53,
+                    67
+                ]
+            }
+        ]
+    },
+    "GreenSeries": {
+        "collocation": "GreenSeries",
+        "name": "绿色系",
+        "color_names": [
+            "万年青色",
+            "凯利绿",
+            "古典绿",
+            "古铜色",
+            "垂柳绿",
+            "墨绿色",
+            "干草色",
+            "抹茶色",
+            "杜松子绿",
+            "柠檬绿",
+            "树梢绿",
+            "橄榄绿",
+            "浅灰绿色",
+            "深青色",
+            "湖水绿",
+            "灰绿色",
+            "祖母绿",
+            "经典绿",
+            "绿光色",
+            "绿松石色",
+            "绿洲色",
+            "芹菜色",
+            "草绿色",
+            "菠菜绿",
+            "薄荷绿",
+            "雪松绿",
+            "青柠色",
+            "青椒绿",
+            "鸟蛋绿"
+        ],
+        "color_data": [
+            {
+                "name_cn": "万年青色",
+                "raw_code": "GN 1-07",
+                "rbg_hex": "#155d4f",
+                "rgb_value": [
+                    21,
+                    93,
+                    79
+                ]
+            },
+            {
+                "name_cn": "凯利绿",
+                "raw_code": "GN 4-02",
+                "rbg_hex": "#189d5c",
+                "rgb_value": [
+                    24,
+                    157,
+                    92
+                ]
+            },
+            {
+                "name_cn": "古典绿",
+                "raw_code": "GN 1-06",
+                "rbg_hex": "#2c6964",
+                "rgb_value": [
+                    44,
+                    105,
+                    100
+                ]
+            },
+            {
+                "name_cn": "古铜色",
+                "raw_code": "GN 7-09",
+                "rbg_hex": "#827819",
+                "rgb_value": [
+                    130,
+                    120,
+                    25
+                ]
+            },
+            {
+                "name_cn": "垂柳绿",
+                "raw_code": "GN 7-07",
+                "rbg_hex": "#b2af7a",
+                "rgb_value": [
+                    178,
+                    175,
+                    122
+                ]
+            },
+            {
+                "name_cn": "墨绿色",
+                "raw_code": "GN 3-03",
+                "rbg_hex": "#355749",
+                "rgb_value": [
+                    53,
+                    87,
+                    73
+                ]
+            },
+            {
+                "name_cn": "干草色",
+                "raw_code": "GN 7-05",
+                "rbg_hex": "#84805d",
+                "rgb_value": [
+                    132,
+                    128,
+                    93
+                ]
+            },
+            {
+                "name_cn": "抹茶色",
+                "raw_code": "GN 5-03",
+                "rbg_hex": "#80a967",
+                "rgb_value": [
+                    128,
+                    169,
+                    103
+                ]
+            },
+            {
+                "name_cn": "杜松子绿",
+                "raw_code": "GN 4-05",
+                "rbg_hex": "#407046",
+                "rgb_value": [
+                    64,
+                    112,
+                    70
+                ]
+            },
+            {
+                "name_cn": "柠檬绿",
+                "raw_code": "GN 6-01",
+                "rbg_hex": "#a1c42c",
+                "rgb_value": [
+                    161,
+                    196,
+                    44
+                ]
+            },
+            {
+                "name_cn": "树梢绿",
+                "raw_code": "GN 5-05",
+                "rbg_hex": "#4d6e37",
+                "rgb_value": [
+                    77,
+                    110,
+                    55
+                ]
+            },
+            {
+                "name_cn": "橄榄绿",
+                "raw_code": "GN 7-04",
+                "rbg_hex": "#8a8953",
+                "rgb_value": [
+                    138,
+                    137,
+                    83
+                ]
+            },
+            {
+                "name_cn": "浅灰绿色",
+                "raw_code": "GN 4-04",
+                "rbg_hex": "#c3d2bf",
+                "rgb_value": [
+                    195,
+                    210,
+                    191
+                ]
+            },
+            {
+                "name_cn": "深青色",
+                "raw_code": "GN 1-03",
+                "rbg_hex": "#174950",
+                "rgb_value": [
+                    23,
+                    73,
+                    80
+                ]
+            },
+            {
+                "name_cn": "湖水绿",
+                "raw_code": "GN 1-02",
+                "rbg_hex": "#006464",
+                "rgb_value": [
+                    0,
+                    100,
+                    100
+                ]
+            },
+            {
+                "name_cn": "灰绿色",
+                "raw_code": "GN 5-04",
+                "rbg_hex": "#a3b293",
+                "rgb_value": [
+                    163,
+                    178,
+                    147
+                ]
+            },
+            {
+                "name_cn": "祖母绿",
+                "raw_code": "GN 2-03",
+                "rbg_hex": "#019875",
+                "rgb_value": [
+                    1,
+                    152,
+                    117
+                ]
+            },
+            {
+                "name_cn": "经典绿",
+                "raw_code": "GN 4-03",
+                "rbg_hex": "#32b140",
+                "rgb_value": [
+                    50,
+                    177,
+                    64
+                ]
+            },
+            {
+                "name_cn": "绿光色",
+                "raw_code": "GN 6-02",
+                "rbg_hex": "#b5cf61",
+                "rgb_value": [
+                    181,
+                    207,
+                    97
+                ]
+            },
+            {
+                "name_cn": "绿松石色",
+                "raw_code": "GN 1-04",
+                "rbg_hex": "#45b8ab",
+                "rgb_value": [
+                    69,
+                    184,
+                    171
+                ]
+            },
+            {
+                "name_cn": "绿洲色",
+                "raw_code": "GN 7-03",
+                "rbg_hex": "#a4a347",
+                "rgb_value": [
+                    164,
+                    163,
+                    71
+                ]
+            },
+            {
+                "name_cn": "芹菜色",
+                "raw_code": "GN 7-02",
+                "rbg_hex": "#c7cd75",
+                "rgb_value": [
+                    199,
+                    205,
+                    117
+                ]
+            },
+            {
+                "name_cn": "草绿色",
+                "raw_code": "GN 5-02",
+                "rbg_hex": "#7bb666",
+                "rgb_value": [
+                    123,
+                    182,
+                    102
+                ]
+            },
+            {
+                "name_cn": "菠菜绿",
+                "raw_code": "GN 6-03",
+                "rbg_hex": "#8f9c4c",
+                "rgb_value": [
+                    143,
+                    156,
+                    76
+                ]
+            },
+            {
+                "name_cn": "薄荷绿",
+                "raw_code": "GN 2-02",
+                "rbg_hex": "#7dd0b6",
+                "rgb_value": [
+                    125,
+                    208,
+                    182
+                ]
+            },
+            {
+                "name_cn": "雪松绿",
+                "raw_code": "GN 6-04",
+                "rbg_hex": "#626c3a",
+                "rgb_value": [
+                    98,
+                    108,
+                    58
+                ]
+            },
+            {
+                "name_cn": "青柠色",
+                "raw_code": "GN 7-08",
+                "rbg_hex": "#9b9638",
+                "rgb_value": [
+                    155,
+                    150,
+                    56
+                ]
+            },
+            {
+                "name_cn": "青椒绿",
+                "raw_code": "GN 2-04",
+                "rbg_hex": "#008564",
+                "rgb_value": [
+                    0,
+                    133,
+                    100
+                ]
+            },
+            {
+                "name_cn": "鸟蛋绿",
+                "raw_code": "GN 2-01",
+                "rbg_hex": "#aad1be",
+                "rgb_value": [
+                    170,
+                    209,
+                    190
+                ]
+            }
+        ]
+    },
+    "BlueSeries": {
+        "collocation": "BlueSeries",
+        "name": "蓝色系",
+        "color_names": [
+            "Tiffany蓝",
+            "代尔夫特蓝",
+            "勿忘我蓝",
+            "婴儿蓝",
+            "孔雀蓝",
+            "宁静蓝",
+            "挪威蓝",
+            "摩洛哥蓝",
+            "景泰蓝",
+            "柔和蓝",
+            "比斯开湾蓝",
+            "浅孔雀蓝",
+            "浅松石色",
+            "浅灰蓝",
+            "海军蓝",
+            "海港蓝",
+            "海蓝色",
+            "深灰蓝",
+            "深牛仔蓝",
+            "深蓝色",
+            "灰蓝色",
+            "皇家蓝",
+            "矢车菊蓝",
+            "米克诺斯蓝",
+            "维多利亚蓝",
+            "蓝光色",
+            "蓝鸟色",
+            "藏蓝",
+            "黄昏蓝"
+        ],
+        "color_data": [
+            {
+                "name_cn": "Tiffany蓝",
+                "raw_code": "BU 6-01",
+                "rbg_hex": "#85dbd8",
+                "rgb_value": [
+                    133,
+                    219,
+                    216
+                ]
+            },
+            {
+                "name_cn": "代尔夫特蓝",
+                "raw_code": "BU 2-06",
+                "rbg_hex": "#3a5b8e",
+                "rgb_value": [
+                    58,
+                    91,
+                    142
+                ]
+            },
+            {
+                "name_cn": "勿忘我蓝",
+                "raw_code": "BU 3-01",
+                "rbg_hex": "#8eafc2",
+                "rgb_value": [
+                    142,
+                    175,
+                    194
+                ]
+            },
+            {
+                "name_cn": "婴儿蓝",
+                "raw_code": "BU 2-01",
+                "rbg_hex": "#b7cad9",
+                "rgb_value": [
+                    183,
+                    202,
+                    217
+                ]
+            },
+            {
+                "name_cn": "孔雀蓝",
+                "raw_code": "BU 5-05",
+                "rbg_hex": "#007d93",
+                "rgb_value": [
+                    0,
+                    125,
+                    147
+                ]
+            },
+            {
+                "name_cn": "宁静蓝",
+                "raw_code": "BU 2-03",
+                "rbg_hex": "#91a8d1",
+                "rgb_value": [
+                    145,
+                    168,
+                    209
+                ]
+            },
+            {
+                "name_cn": "挪威蓝",
+                "raw_code": "BU 4-02",
+                "rbg_hex": "#4fa9cc",
+                "rgb_value": [
+                    79,
+                    169,
+                    204
+                ]
+            },
+            {
+                "name_cn": "摩洛哥蓝",
+                "raw_code": "BU 4-05",
+                "rbg_hex": "#1c4f6a",
+                "rgb_value": [
+                    28,
+                    79,
+                    106
+                ]
+            },
+            {
+                "name_cn": "景泰蓝",
+                "raw_code": "BU 4-03",
+                "rbg_hex": "#0081bb",
+                "rgb_value": [
+                    0,
+                    129,
+                    187
+                ]
+            },
+            {
+                "name_cn": "柔和蓝",
+                "raw_code": "BU 5-02",
+                "rbg_hex": "#c0d9dd",
+                "rgb_value": [
+                    192,
+                    217,
+                    221
+                ]
+            },
+            {
+                "name_cn": "比斯开湾蓝",
+                "raw_code": "BU 5-06",
+                "rbg_hex": "#017785",
+                "rgb_value": [
+                    1,
+                    119,
+                    133
+                ]
+            },
+            {
+                "name_cn": "浅孔雀蓝",
+                "raw_code": "BU 6-03",
+                "rbg_hex": "#01a4b5",
+                "rgb_value": [
+                    1,
+                    164,
+                    181
+                ]
+            },
+            {
+                "name_cn": "浅松石色",
+                "raw_code": "BU 6-02",
+                "rbg_hex": "#97c7c7",
+                "rgb_value": [
+                    151,
+                    199,
+                    199
+                ]
+            },
+            {
+                "name_cn": "浅灰蓝",
+                "raw_code": "BU 2-02",
+                "rbg_hex": "#9aadbe",
+                "rgb_value": [
+                    154,
+                    173,
+                    190
+                ]
+            },
+            {
+                "name_cn": "海军蓝",
+                "raw_code": "BU 1-04",
+                "rbg_hex": "#3e4071",
+                "rgb_value": [
+                    62,
+                    64,
+                    113
+                ]
+            },
+            {
+                "name_cn": "海港蓝",
+                "raw_code": "BU 4-04",
+                "rbg_hex": "#015f83",
+                "rgb_value": [
+                    1,
+                    95,
+                    131
+                ]
+            },
+            {
+                "name_cn": "海蓝色",
+                "raw_code": "BU 4-01",
+                "rbg_hex": "#9dc6d8",
+                "rgb_value": [
+                    157,
+                    198,
+                    216
+                ]
+            },
+            {
+                "name_cn": "深灰蓝",
+                "raw_code": "BU 3-05",
+                "rbg_hex": "#3b607a",
+                "rgb_value": [
+                    59,
+                    96,
+                    122
+                ]
+            },
+            {
+                "name_cn": "深牛仔蓝",
+                "raw_code": "BU 2-08",
+                "rbg_hex": "#36485e",
+                "rgb_value": [
+                    54,
+                    72,
+                    94
+                ]
+            },
+            {
+                "name_cn": "深蓝色",
+                "raw_code": "BU 1-01",
+                "rbg_hex": "#4c427f",
+                "rgb_value": [
+                    76,
+                    66,
+                    127
+                ]
+            },
+            {
+                "name_cn": "灰蓝色",
+                "raw_code": "BU 2-05",
+                "rbg_hex": "#6888a1",
+                "rgb_value": [
+                    104,
+                    136,
+                    161
+                ]
+            },
+            {
+                "name_cn": "皇家蓝",
+                "raw_code": "BU 1-03",
+                "rbg_hex": "#40448d",
+                "rgb_value": [
+                    64,
+                    68,
+                    141
+                ]
+            },
+            {
+                "name_cn": "矢车菊蓝",
+                "raw_code": "BU 2-04",
+                "rbg_hex": "#7492d0",
+                "rgb_value": [
+                    116,
+                    146,
+                    208
+                ]
+            },
+            {
+                "name_cn": "米克诺斯蓝",
+                "raw_code": "BU 3-04",
+                "rbg_hex": "#0c3e7b",
+                "rgb_value": [
+                    12,
+                    62,
+                    123
+                ]
+            },
+            {
+                "name_cn": "维多利亚蓝",
+                "raw_code": "BU 3-03",
+                "rbg_hex": "#155da5",
+                "rgb_value": [
+                    21,
+                    93,
+                    165
+                ]
+            },
+            {
+                "name_cn": "蓝光色",
+                "raw_code": "BU 5-03",
+                "rbg_hex": "#63cbd6",
+                "rgb_value": [
+                    99,
+                    203,
+                    214
+                ]
+            },
+            {
+                "name_cn": "蓝鸟色",
+                "raw_code": "BU 5-01",
+                "rbg_hex": "#1a85a7",
+                "rgb_value": [
+                    26,
+                    133,
+                    167
+                ]
+            },
+            {
+                "name_cn": "藏蓝",
+                "raw_code": "BU 1-05",
+                "rbg_hex": "#2f3653",
+                "rgb_value": [
+                    47,
+                    54,
+                    83
+                ]
+            },
+            {
+                "name_cn": "黄昏蓝",
+                "raw_code": "BU 3-02",
+                "rbg_hex": "#7ea1bf",
+                "rgb_value": [
+                    126,
+                    161,
+                    191
+                ]
+            }
+        ]
+    },
+    "YellowSeries": {
+        "collocation": "YellowSeries",
+        "name": "黄色系",
+        "color_names": [
+            "古金色",
+            "含羞草花黄",
+            "奶油色",
+            "奶黄色",
+            "嫩黄色",
+            "小苍兰黄",
+            "山杨黄",
+            "帝国黄",
+            "晚霞色",
+            "暗柠檬色",
+            "毛茛花黄",
+            "白鹭色",
+            "粉黄色",
+            "纳瓦霍黄色",
+            "蜂蜜色",
+            "金色",
+            "阳光色",
+            "黄奶油色",
+            "黄水仙色"
+        ],
+        "color_data": [
+            {
+                "name_cn": "古金色",
+                "raw_code": "YL 2-06",
+                "rbg_hex": "#f2bb22",
+                "rgb_value": [
+                    242,
+                    187,
+                    34
+                ]
+            },
+            {
+                "name_cn": "含羞草花黄",
+                "raw_code": "YL 3-04",
+                "rbg_hex": "#efbf50",
+                "rgb_value": [
+                    239,
+                    191,
+                    80
+                ]
+            },
+            {
+                "name_cn": "奶油色",
+                "raw_code": "YL 3-01",
+                "rbg_hex": "#f5e1ae",
+                "rgb_value": [
+                    245,
+                    225,
+                    174
+                ]
+            },
+            {
+                "name_cn": "奶黄色",
+                "raw_code": "YL 1-05",
+                "rbg_hex": "#ead98b",
+                "rgb_value": [
+                    234,
+                    217,
+                    139
+                ]
+            },
+            {
+                "name_cn": "嫩黄色",
+                "raw_code": "YL 1-01",
+                "rbg_hex": "#efefb3",
+                "rgb_value": [
+                    239,
+                    239,
+                    179
+                ]
+            },
+            {
+                "name_cn": "小苍兰黄",
+                "raw_code": "YL 3-03",
+                "rbg_hex": "#f5c324",
+                "rgb_value": [
+                    245,
+                    195,
+                    36
+                ]
+            },
+            {
+                "name_cn": "山杨黄",
+                "raw_code": "YL 3-02",
+                "rbg_hex": "#ffd857",
+                "rgb_value": [
+                    255,
+                    216,
+                    87
+                ]
+            },
+            {
+                "name_cn": "帝国黄",
+                "raw_code": "YL 2-03",
+                "rbg_hex": "#f6d200",
+                "rgb_value": [
+                    246,
+                    210,
+                    0
+                ]
+            },
+            {
+                "name_cn": "晚霞色",
+                "raw_code": "YL 2-02",
+                "rbg_hex": "#f5eed2",
+                "rgb_value": [
+                    245,
+                    238,
+                    210
+                ]
+            },
+            {
+                "name_cn": "暗柠檬色",
+                "raw_code": "YL 2-04",
+                "rbg_hex": "#e4cd7f",
+                "rgb_value": [
+                    228,
+                    205,
+                    127
+                ]
+            },
+            {
+                "name_cn": "毛茛花黄",
+                "raw_code": "YL 1-04",
+                "rbg_hex": "#fbe339",
+                "rgb_value": [
+                    251,
+                    227,
+                    57
+                ]
+            },
+            {
+                "name_cn": "白鹭色",
+                "raw_code": "YL 2-01",
+                "rbg_hex": "#f1ede1",
+                "rgb_value": [
+                    241,
+                    237,
+                    225
+                ]
+            },
+            {
+                "name_cn": "粉黄色",
+                "raw_code": "YL 1-02",
+                "rbg_hex": "#f2e6ac",
+                "rgb_value": [
+                    242,
+                    230,
+                    172
+                ]
+            },
+            {
+                "name_cn": "纳瓦霍黄色",
+                "raw_code": "YL 4-05",
+                "rbg_hex": "#f0e2c7",
+                "rgb_value": [
+                    240,
+                    226,
+                    199
+                ]
+            },
+            {
+                "name_cn": "蜂蜜色",
+                "raw_code": "YL 3-06",
+                "rbg_hex": "#bc9337",
+                "rgb_value": [
+                    188,
+                    147,
+                    55
+                ]
+            },
+            {
+                "name_cn": "金色",
+                "raw_code": "YL 4-03",
+                "rbg_hex": "#de9d35",
+                "rgb_value": [
+                    222,
+                    157,
+                    53
+                ]
+            },
+            {
+                "name_cn": "阳光色",
+                "raw_code": "YL 4-01",
+                "rbg_hex": "#f1daa4",
+                "rgb_value": [
+                    241,
+                    218,
+                    164
+                ]
+            },
+            {
+                "name_cn": "黄奶油色",
+                "raw_code": "YL 1-03",
+                "rbg_hex": "#f1db6c",
+                "rgb_value": [
+                    241,
+                    219,
+                    108
+                ]
+            },
+            {
+                "name_cn": "黄水仙色",
+                "raw_code": "YL 4-04",
+                "rbg_hex": "#c69141",
+                "rgb_value": [
+                    198,
+                    145,
+                    65
+                ]
+            }
+        ]
+    }
+}
